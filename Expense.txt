@@ -1,0 +1,6 @@
+ Customer Name: sundas
+ MemberShip: Customer 
+ Date: 11/01/2022 14:42:33
+ Service Charges 26200.0
+ Total = 26200.0
+ _____________________________
